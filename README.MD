@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Web3 Project.<br>👯 I’m looking to collaborate on Mern stack + Nextjs and Rust projects. <br>🌱 I’m currently learning GoLang + Web3 <br>⚡ Fun fact - "AI will take our jobs"… right after it figures out CAPTCHAs.
 
 
